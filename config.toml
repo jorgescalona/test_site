@@ -1,0 +1,7 @@
+baseURL = "http://jorgescalona.github.io/test_site"
+languageCode = "en-us"
+title = "The Test Site"
+
+themesDir = "themes"
+publishDir = "docs"
+theme = "beautifulhugo"
